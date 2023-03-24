@@ -5,5 +5,4 @@ Soy un desarrollador Front End con experiencia en HTML, CSS y JavaScript. Me enc
 Contacto
 
 Correo electrónico: jaimeorosco501@gmail.com  
-
 LinkedIn: https://www.linkedin.com/in/jaimeorosco/
