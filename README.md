@@ -1,7 +1,5 @@
 # Jaime Orosco
 
-# Acerca de mi
-
 Soy un desarrollador Front End con experiencia en HTML, CSS y JavaScript. Me encanta crear sitios web y aplicaciones que sean atractivos y fáciles de usar. 🚀
 
 # Contacto
